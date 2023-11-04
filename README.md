@@ -6,11 +6,6 @@
 </div>  
 <h1 align='center'> Hello, I am Little Vampire </h1>
 
- 
-<h4 align="center">
-<img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center"> My Github Stats <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center">
-</h4>
-
 <br>
 
 
@@ -27,7 +22,6 @@
   </summary>
   
 * I'm learning about Google Analytics and AWS, architetures, modules, Flutter and more;
-* I shared some lessons about creating your website or meeting the Android's lifecycle on [studio urbanna](https://studiourbanna.github.io);
 * I love 🥤 Soda, 🎮 Games and 🎭 Arts. Specially, photos and music.
 
 
