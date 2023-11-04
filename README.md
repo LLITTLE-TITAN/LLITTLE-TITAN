@@ -1,10 +1,10 @@
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"> 
-<img width=100% title="Hornet-Developer" alt="Hornet-Developer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Fullstack-Developer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width=100% title="Developer" alt="Developer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Fullstack-Developer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
            
    
 </div>  
-<h1 align='center'> Hello, I am Little Titan </h1>
+<h1 align='center'> Hello, I am a Full-stack developer </h1>
 
 <br>
 
